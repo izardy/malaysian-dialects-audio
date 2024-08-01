@@ -36,7 +36,7 @@ pyzmq==25.1.0
 six==1.16.0
 stack-data==0.6.2
 toml==0.10.2
-tornado==6.3.3
+tornado>=6.4.1
 traitlets==5.9.0
 twisted>=24.7.0rc1
 twisted-iocpsupport==1.0.4
